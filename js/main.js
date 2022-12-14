@@ -20,7 +20,7 @@ function highlight (el){
         if(actor == mySpan.dataset.actor){//if white, then turn yellow
             mySpan.style.backgroundColor='yellow';
            }else{//turn white
-            mySpan.style.backgroundColor='white';
+            mySpan.style.backgroundColor='pink';
            }
     }
 
